@@ -1,0 +1,36 @@
+p {
+    font-family: hack;
+}
+
+h1 {
+    font-family: scientifica;
+}
+
+html {
+    background-color: black;
+}
+
+ul {
+    margin-left: 80px;
+}
+
+h1 {
+    color: white;
+    margin-left: 50px;
+}
+
+p {
+    color: white;
+    margin-left: 80px;
+}
+
+pre {
+    color:white;
+    margin-left: 40%;
+    margin-top: 320px;
+}
+
+small {
+    margin-left: 150px;
+    font-size: 20;
+}
