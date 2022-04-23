@@ -1,13 +1,15 @@
 p {
-    font-family: hack;
+    font-family: monospace;
 }
 
 h1 {
-    font-family: scientifica;
+    font-family: monospace;
 }
 
 html {
     background-color: black;
+
+    font-family: monospace;
 }
 
 ul {
